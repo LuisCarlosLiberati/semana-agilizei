@@ -1,0 +1,24 @@
+[
+    {
+        "_id":{
+            "$oid":"5bbcad731f6e4f0840a1b062"
+        },
+        "FirstName":"Juanribe",
+        "LastName":"Pagliarin",
+        "Email":"juanribe@pregadordotelhado.com",
+        "Phone":"3129876543",
+        "Gender":"Male"
+    },
+
+    {
+        "_id":{
+            "$oid":"5bbcad731f6e4f0840a2"
+        },
+        "FirstName":"Neilton",
+        "LastName":"Rocha",
+        "Email":"neilton@pregadordotelhado.com",
+        "Phone":"29876543",
+        "Gender":"Female"
+    }
+    
+]
